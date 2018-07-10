@@ -1,0 +1,6 @@
+Sam the Traveller, 0,  Aleut, healing power, teleport
+Marcus the Runner, 0, Arikara, electric flying shoes, tiny electric canons
+Dante the Trickster, 0, Cado, staff of magnus, invisible gown
+X-Byte the Geek, 0, Chippewa, laser sword, electric armor
+Roy the slayer, 0, viking, Ulfberht , metal shield
+Arthur the King, 0, excalibar, strong Armor
