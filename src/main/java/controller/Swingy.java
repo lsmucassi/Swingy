@@ -1,4 +1,8 @@
 package controller;
+/** @Project : Swingy
+ *  @school : wethinkcode.co.za
+ *  @Author : lmucassi;
+ */
 
 public class Swingy {
 
@@ -19,8 +23,6 @@ public class Swingy {
                     play.start(mode);
                     break ;
                 case 'B' :
-                    System.out.println("Game Mode: Graphical mode [gui]");
-                    System.out.println("Welcome to Swingy - A world of the unknown");
                     play.start(mode);
                     break ;
                 default :

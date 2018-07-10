@@ -1,7 +1,10 @@
 package view;
+/** @Project : Swingy
+ *  @school : wethinkcode.co.za
+ *  @Author : lmucassi;
+ */
 
 import controller.SwingController;
-
 import javax.swing.*;
 
 public class GuiPanel extends JPanel {
@@ -9,6 +12,5 @@ public class GuiPanel extends JPanel {
 
     public GuiPanel(SwingController baseController) {
         this._baseController = baseController;
-
     }
 }
